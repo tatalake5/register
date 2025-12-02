@@ -1,1 +1,15 @@
+{
+    "description": "Project Description",
+    "domain": "is-not-a.dev",
+    "subdomain": "unlxdw",
 
+    "owner": {
+        "repo": "https://github.com/tatalake5/register",
+        "email": "2217038843@qq.com"
+    },
+
+    "record": {
+        "A": ["66.154.119.208"],
+
+    "proxied": false
+    }
